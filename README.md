@@ -27,17 +27,17 @@ How do the teenage birth rates from females in low-income families in Baltimore,
 ![stats_both](https://user-images.githubusercontent.com/70858878/99890073-9335f400-2c29-11eb-9be5-e76c94c715a0.png)
 Figure 1: Bar graph depicting mean, min, max teenage birth rate (calculated by neighborhood, not tract) for each city
 
-Min Teenage BR
-- Baltimore, MD: 0.0691
-- Miami, FL: 0.012
+-Min Teenage BR
+  -Baltimore, MD: 0.0691
+  -Miami, FL: 0.012
 
-Mean Teenage BR
-- Baltimore, MD: 0.4107
-- Miami, FL: 0.1819
+-Mean Teenage BR
+  -Baltimore, MD: 0.4107
+  -Miami, FL: 0.1819
 
-Max Teenage BR
-- Baltimore, MD: 0.638
-- Miami, FL: 0.51
+-Max Teenage BR
+  -Baltimore, MD: 0.638
+  -Miami, FL: 0.51
 
 ![bar_both](https://user-images.githubusercontent.com/70858878/99890023-fb380a80-2c28-11eb-9b29-3ef7bf4127b3.png)
 Figure 2: Bar graph depicting top 5 neighborhoods in each city with highest teenage birth rates
