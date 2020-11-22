@@ -7,6 +7,9 @@ This topic is interesting because although teenage birth rates in the US have de
 
 This project explores open data from the Opportunity Atlas Group on teenage birth rates of females from low-income families in Baltimore, MD and Miami, FL and uses Python to conduct data analysis. The data takes teenage birth rates from tracts within neighborhoods in each city; several tracts can make up a neighborhood.
 
+![map baltimore](https://user-images.githubusercontent.com/70858878/93527342-b7faac00-f906-11ea-98fa-94bce6585781.png)
+![map miami](https://user-images.githubusercontent.com/70858878/93527382-c9dc4f00-f906-11ea-9789-ecd7afbe4f54.png)
+
 ## Data Sources
 1. Opportunity Atlas
   - [Miami](https://github.com/vickidecastro/comparing-baltimore-miami-teenage-birthrate-lowincome-parents/blob/master/shown_tract_teenbirth_rP_gF_p25%20miami.csv): Original open data on teenage birth rates of females from low-income families in Miami, FL
